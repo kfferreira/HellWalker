@@ -1,5 +1,6 @@
 # HellWalker
-Um jogo de tiro programado em Python e Pygames no Visual Studio Code
+# Um jogo de tiro programado em Python e Pygames no Visual Studio Code
+# Para baixar basta copiar o código e colar no vscode após baixar python e pygames
 
 
 import pygame
